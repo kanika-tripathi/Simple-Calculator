@@ -36,6 +36,7 @@ html
     <script src="script.js"></script>
 </body>
 </html>
+2. *CSS Styling* (styles.css):
 css
 .calculator {
     width: 300px;
